@@ -1,5 +1,5 @@
 # --------------------------------------------------------
-# To preprocess imagenet val dataset
+# Preprocess imagenet val dataset
 # Create a subfolder for every label, and put a symbol
 # link to the image in the folder.
 # --------------------------------------------------------	
