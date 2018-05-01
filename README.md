@@ -5,7 +5,7 @@
 3. Tools of ImageNet classification with Gluon.
 
 
-### Gluon Pretrained Model Test ([exp](./exp/model_zoo_test.ipynb)|[result](.exp/model_zoo_test_result.csv))
+### Gluon Pretrained Model Test ([exp](./exp/model_zoo_test.ipynb)|[result](./exp/model_zoo_test_result.csv))
 
 Part of performance test results of [Gluon pretrained models](https://github.com/apache/incubator-mxnet/blob/master/python/mxnet/gluon/model_zoo/model_store.py) on **ImageNet** validation dataset:
 
